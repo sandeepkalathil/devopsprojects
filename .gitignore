@@ -1,6 +1,7 @@
-".terraform/"
-"*.exe"
-"*.JPG"
-"*.docx"
-
+.terraform/
+*.exe
+*.jpg
+*.JPG
+*.docx
+*.DOCX
 
