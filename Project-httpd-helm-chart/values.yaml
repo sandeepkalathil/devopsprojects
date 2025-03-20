@@ -1,0 +1,13 @@
+replicaCount: 1
+
+image:
+  repository: httpd
+  tag: latest
+
+service:
+  type: ClusterIP
+  port: 80
+
+ingress:
+  enabled: true  # Change to true if using Ingress
+  hostname: httpd.local  # Change to your domain if required
