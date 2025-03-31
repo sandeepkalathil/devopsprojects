@@ -1,5 +1,3 @@
-Here’s the enhanced version of your document, formatted in a professional manner and tailored for a `README.md` file:
-
 ```markdown
 # Deploy NGINX Ingress Controller on AWS EKS using Terraform and Helm
 
